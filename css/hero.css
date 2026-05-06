@@ -1,4 +1,4 @@
-.section-title {
+.section-main-title {
     background-color: #2E2F42;
 }
 
@@ -10,9 +10,14 @@
     color: #FFFFFF;
 }
 
-.button-title {
+.button-main-title {
     font-weight: 500;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
+}
+
+.button-main-title:hover,
+.button-main-title:focus {
+    color: #404BBF;
 }

@@ -1,0 +1,21 @@
+.section-header {
+    color: #2E2F42;
+}
+
+.address-list {
+    font-style: normal;
+}
+
+.header-address {
+    color: #434455;
+}
+
+.address-list .header-address-list:hover,
+.address-list .header-address-list:focus {
+    color: #404BBF;
+}
+
+.header-nav .header-nav-list:hover,
+.header-nav .header-nav-list:focus {
+    color: #404BBF;
+}
