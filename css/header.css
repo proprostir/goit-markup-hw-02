@@ -6,7 +6,12 @@
     font-style: normal;
 }
 
-.header-address {
+
+.header-nav-list {
+    color: #2E2F42;
+}
+
+.header-address-list {
     color: #434455;
 }
 
@@ -18,4 +23,14 @@
 .header-nav .header-nav-list:hover,
 .header-nav .header-nav-list:focus {
     color: #404BBF;
+    font-weight: 500;
+}
+
+.header-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.166;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42; 
 }

@@ -19,5 +19,6 @@
 
 .button-main-title:hover,
 .button-main-title:focus {
-    color: #404BBF;
+    background-color: #404BBF;
+    color: #FFFFFF;
 }
