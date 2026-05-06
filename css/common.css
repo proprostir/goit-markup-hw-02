@@ -1,0 +1,36 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+    text-align: center;
+    color: #2E2F42;
+}
+
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+
+}
+
+
+ul, ol {
+    list-style-type: none;
+}
+
+.color-accent {
+    color: #4D5AE5;
+}
